@@ -41,6 +41,12 @@ Prepared a phishing case study and a prevention checklist for safe online behavi
 
 Digital Literacy Quiz Form: https://docs.google.com/forms/d/e/1FAIpQLSedgNvaAA07kGpjCkUPTZe3Jd0NTxsLm9Y9JVSqvLnBHiWJMg/viewform?usp=header
 
+## My Profiles
+
+ GitHub: https://github.com/ayushi25mim10174-hue
+ LinkedIn: https://www.linkedin.com/in/ayushi-dubey-a65a003b9/  
+ Kaggle:  https://www.kaggle.com/shamayu 
+
 **Repository Structure**
 
 task-1-presentation

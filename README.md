@@ -1,10 +1,15 @@
 **Digital Literacy Project**
 
 **Student Details**
+
 Name: Ayushi Dubey
+
 Registration Number: 25MIM10174
+
 University: VIT Bhopal University
+
 Course: Digital Literacy
+
 
 **Project Overview**
 

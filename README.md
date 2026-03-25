@@ -18,18 +18,23 @@ This repository contains my Digital Literacy Project completed as part of the co
 **Tasks Included**
 
 Task 1 – Digital Literacy Infographic
+
 Created an infographic using Canva to explain digital literacy, safe internet practices, email etiquette, and professional online presence.
 
 Task 2 – Digital Portfolio
+
 Created and updated professional profiles on GitHub, LinkedIn, and Kaggle to build a strong digital presence.
 
 Task 3 – Coding & Collaboration Platforms
+
 Solved a beginner-level problem on HackerRank and created a Google Form quiz linked with Google Sheets.
 
 Task 4 – Email Etiquette & Social Media Checklist
+
 Wrote two professional emails and created a social media do’s and don’ts checklist.
 
 Task 5 – Cybercrime Awareness
+
 Prepared a phishing case study and a prevention checklist for safe online behavior.
 
 **Useful Link**
@@ -39,10 +44,15 @@ Digital Literacy Quiz Form: https://docs.google.com/forms/d/e/1FAIpQLSedgNvaAA07
 **Repository Structure**
 
 task-1-presentation
+
 task-2-portfolio
+
 task-3-platforms
+
 task-4-email-etiquette
+
 task-5-cybercrime
+
 report
 
 **Conclusion**
